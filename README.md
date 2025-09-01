@@ -15,4 +15,5 @@ Database: MongoDB
 
 
 -To run the file, simply clone the repository on your local machine and run the command 
+
 streamlit run app.py
