@@ -1,5 +1,7 @@
 The following project is only a prototype of the dashboard with mock refreshing values. Actual data is fetched with the help of sensors with is consolidated into RaspberryPi for further processing and predictions. 
-key parameters monitored 
+
+key parameters monitored :
+
 -Vibrational levels
 -fuel consumption
 -operational hours
